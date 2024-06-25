@@ -1,0 +1,1 @@
+./makeself.sh --notemp /Users/jlempen/Documents/Plex\ Media\ Server\ for\ WD\ My\ Passport\ Wireless/installer/plexmediaserver-installer PlexMediaServer-1.16.5.1554-WDMPW.run "Plex Media Server v1.16.5.1554 for WD My Passport Wireless" ./install.sh
